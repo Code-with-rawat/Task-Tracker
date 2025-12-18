@@ -1,4 +1,4 @@
-# 📝 Task Tracker  App (MERN Stack)
+#  Task Tracker  App (MERN Stack)
 <!--  Setup Steps-->
 
 
