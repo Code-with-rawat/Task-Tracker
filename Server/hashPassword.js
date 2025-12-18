@@ -5,5 +5,6 @@ async function hashPassword() {
   const hashedPassword = await bcrypt.hash(password, 10);
   console.log(hashedPassword);
 }
-
 hashPassword();
+
+//Email = himanshu@gmail.com
